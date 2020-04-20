@@ -1,7 +1,7 @@
 absl-py==0.7.0
 astor==0.7.1
 backcall==0.1.0
-bleach==3.1.0
+bleach==3.1.4
 certifi==2019.3.9
 cloudpickle==0.8.0
 colorama==0.4.1
